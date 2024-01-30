@@ -1,5 +1,4 @@
-# Dwello
-Home rental market platform
+# Dwello: Home rental market platform
 
 Startup Ideation through UBC CPSC 436e Entrepreneurship
 
